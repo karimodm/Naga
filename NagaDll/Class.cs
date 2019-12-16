@@ -1,6 +1,5 @@
 ﻿using Naga;
 using NagaDll.Properties;
-using RGiesecke.DllExport;
 using System;
 using System.Runtime.InteropServices;
 
@@ -9,7 +8,6 @@ namespace NagaDll
     [ComVisible(true)]
     public class Class
     {
-        [DllExport(ExportName = "Main")]
         static void Main(string[] args)
         {
 

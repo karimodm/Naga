@@ -1,6 +1,6 @@
 ﻿using System;
 using Naga;
-using Naga.Properties;
+using NagaExe.Properties;
 
 namespace NagaExe
 {
